@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockkerFileFolder
           push: true
-          tags: jolena/crm:latest
+          tags: jolena/crmcrm:latest
